@@ -229,14 +229,16 @@ body {
     .main-section {
   
       float: left;
-      width: 100%;
-      max-width: 960px;
+      /* width: 960px; */
       padding-left: 5%;
       padding-right:5%;
       margin-bottom:50%;
       margin-right:10%;
       background:lightgoldenrodyellow;
       border: 1px solid #dddddd;
+      width:87%;
+      margin:auto;
+      margin-left:61px;
   }
 
     body{
